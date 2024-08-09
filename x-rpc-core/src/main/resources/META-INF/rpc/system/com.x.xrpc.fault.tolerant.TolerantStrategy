@@ -1,0 +1,2 @@
+failSafe=com.x.xrpc.fault.tolerant.FailSafeTolerantStrategy
+failFast=com.x.xrpc.fault.tolerant.FailFastTolerantStrategy
