@@ -1,0 +1,2 @@
+no=com.x.xrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.x.xrpc.fault.retry.FixedIntervalRetryStrategy
