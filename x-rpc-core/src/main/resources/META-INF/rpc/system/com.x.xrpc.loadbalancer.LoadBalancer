@@ -1,3 +1,0 @@
-roundRobin=com.x.xrpc.loadbalancer.RoundRobinLoadBalancer
-random=com.x.xrpc.loadbalancer.RandomLoadBalancer
-consistentHash=com.x.xrpc.loadbalancer.ConsistentHashLoadBalancer
